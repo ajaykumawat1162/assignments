@@ -1,0 +1,17 @@
+
+body{
+    font-family: "Times New Roman", serif;
+}
+.paper{
+    width: 80%;
+    margin: auto;
+}
+.center{
+    text-align: center;
+}
+.red-line{
+    border: none;
+    border-top: 2px solid red;
+    width: 100%;
+    margin: 10px 0;
+}
